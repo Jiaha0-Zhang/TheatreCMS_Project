@@ -27,7 +27,7 @@ Prevent any user that is not an EventPlanner from accessing the Create, Edit, an
 ## Front End Stories
 
 #### Create and Style About Page
-Create a new view of About page, And match the style to the theme of the theater.
+   Create a new view of About page, And match the style to the theme of the theater.
 * [Create and Style About Page code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/About_cshtml.png)
 * [Create and Style About Page webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/AboutPage.png)
 
