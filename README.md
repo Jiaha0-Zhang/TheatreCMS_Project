@@ -15,8 +15,8 @@ Create an entity model for the Calendar Event class so that productions can be s
 
 #### Seed EventPlanner
 Create a seed method for EventPlanner. Seeding the database entails creating an instance of EventPlanner and saving it to the database before the page is loaded so that we have access to the EventPlanner for testing purposes.
-* [Configuration](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/Configuration.png)
-* [EventPlanner](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/Eventplanner.png)
+* [Configuration code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/Configuration.png)
+* [EventPlanner code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/Eventplanner.png)
 
 #### Restrict CRUD Operations
 Prevent any user that is not an EventPlanner from accessing the Create, Edit, and Delete pages.Create a new View in the EventPlanner View folder called AccessDenied. Redirect the user to this AccessDenied page when they try to access one of these restricted pages.
@@ -27,7 +27,7 @@ Prevent any user that is not an EventPlanner from accessing the Create, Edit, an
 ## Front End Stories
 
 #### Create and Style About Page
-   Create a new view of About page, And match the style to the theme of the theater.
+<br><br>Create a new view of About page, And match the style to the theme of the theater.
 * [Create and Style About Page code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/About_cshtml.png)
 * [Create and Style About Page webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/AboutPage.png)
 
