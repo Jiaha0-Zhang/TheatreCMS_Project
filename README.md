@@ -58,6 +58,6 @@ This is a team project. Although there was no overlap between the Stories made b
 The biggest challenge of this Live Project was that I often felt overwhelmed at the beginning of a Story and not knowing where to take the first step, but once I had a complete plan in my mind, the rest fell into place easily. 
 
 
-``Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Summary and Experience](#other-skills-learned), [Page Top](#live-project)``
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Summary and Experience](#other-skills-learned), [Page Top](#live-project)*
 
 
