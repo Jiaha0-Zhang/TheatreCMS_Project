@@ -8,7 +8,7 @@ In this project, each of us played an important role and we were all assigned to
 
 ## Back End Stories
 
-#### Create entity model for CalendarEvent and CRUD pages
+#### Create entity model for CalendarEvent and CRUD pages``
 Create an entity model for the Calendar Event class so that productions can be saved to the database.
 * [Create entity model for CalendarEvent](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/CalendarEventProps.png)
 
@@ -27,7 +27,7 @@ Prevent any user that is not an EventPlanner from accessing the Create, Edit, an
 ## Front End Stories
 
 #### Create and Style About Page
-<br><br>Create a new view of About page, And match the style to the theme of the theater.
+Create a new view of About page, And match the style to the theme of the theater.
 * [Create and Style About Page code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/About_cshtml.png)
 * [Create and Style About Page webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/AboutPage.png)
 
