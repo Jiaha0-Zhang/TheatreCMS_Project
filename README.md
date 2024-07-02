@@ -29,18 +29,18 @@ In this project, each of us played an important role and we were all assigned to
 ### Create and Style About Page
 ***Create a new view of About page, And match the style to the theme of the theater.***
 * [Create and Style About Page code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/About_cshtml.png)
-* [Create and Style About Page webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/AboutPage.png)
+![Create and Style About Page webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/AboutPage.png)
 
 ### Index Page for Calendar Event
 ***Create an index page for calender event to meet specific requirements and add some features.***
 * [Index Page for Calendar Event code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/index.png)
-* [Index Page for Calendar Event webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/IndexPage.png)
+![Index Page for Calendar Event webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/IndexPage.png)
 
 ### Style the Create and Edit Pages for Calendar Event model
 ***Re-style Create page and Edit page to meet specific requirements and add some features.***
-* [Style the Create Pages for Calendar Event model code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/Create.png)
-* [Style the Create Pages for Calendar Event model webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/CreatePage.png)
+* [Style the Create Pages for Calendar Event model code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/Create.png) 
 * [Style the Edit Pages for Calendar Event model code snippet](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/Edit.png)
+![Style the Create Pages for Calendar Event model webpage screenshot](https://github.com/Jiaha0-Zhang/TheatreCMS_Project/blob/main/Stories/CreatePage.png)
 
 ### Related CSS
 ***This contains all the CSS code used in the above webpages design.***
